@@ -1,0 +1,11 @@
+{
+  "name": "temarios-front-end",
+  "version": "1.0.0",
+  "description": "Temarios-projectos-Rutas (Front-End) Academia CodesPixel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin destefanis",
+  "license": "ISC"
+}
